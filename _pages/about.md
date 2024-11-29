@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in Queen Mary University of London, working with [Shanxin Yuan](https://shanxinyuan.github.io/) and [Greg Slabaugh](https://www.eecs.qmul.ac.uk/~gslabaugh/). Previously, I was a Senior Algorithm Engineer at Ant Group based in Hangzhou, working with [Yuan Cheng](https://www.linkedin.com/in/drchengyuan/). Before joining Ant Group, I obtained my Master degree from University of Chinese Academy of Sciences(UCAS) in July 2018.
+I am a PhD student in Queen Mary University of London, working with [Shanxin Yuan](https://shanxinyuan.github.io/) and [Greg Slabaugh](https://www.eecs.qmul.ac.uk/~gslabaugh/). Previously, I was a Senior Algorithm Engineer at Ant Group based in Hangzhou, working with [Yuan Cheng](https://www.linkedin.com/in/drchengyuan/). Before joining Ant Group, I obtained my Master degree from University of Chinese Academy of Sciences.
 
 My work mainly focuses on computer vision including object detection, video action detection, video representation learning, large-scale video-language pre-training, and human-motion generation.
 
